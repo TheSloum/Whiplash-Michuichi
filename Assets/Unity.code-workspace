@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Bureau/Cours/JS/JeuScratch"
+		},
+		{
+			"path": "../../../../Bureau/Cours/IntégrationHTML/Book"
+		},
+		{
+			"path": "../../../../Bureau/Cours/Book"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JeuScratch"
+	}
+}
